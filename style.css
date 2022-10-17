@@ -124,11 +124,13 @@ body{
     }
     .image{
         margin-top:40px; 
+        margin-bottom:40px;
         justify-content: center;
     }
     #image-dashboard{
         height:200px;
         width:270px;
+
     }
     .icons{
         margin:10px;
@@ -151,5 +153,6 @@ body{
     .copyright-content{
         color:hsl(0, 0%, 59%);
         font-size: 10px;
+        margin-bottom:20px;
     }
 }
