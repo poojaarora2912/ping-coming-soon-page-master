@@ -123,7 +123,13 @@ body{
     
     }
     .image{
-        margin:5px;
+        margin-top:40px; 
+        margin-bottom:40px;
+        justify-content: center;
+    }
+    #image-dashboard{
+        height:200px;
+        width:270px;
     }
     .icons{
         margin:10px;
